@@ -1,0 +1,7 @@
+data_embeddings/
+faiss_index/
+*.npy
+*.faiss
+__pycache__/
+.ipynb_checkpoints/
+wandb/
